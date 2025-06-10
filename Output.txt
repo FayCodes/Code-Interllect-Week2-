@@ -1,0 +1,18 @@
+Data Summary
+The dataset has 120 rows and 10 columns.
+Columns include: Date, Year, Month, Energy_Consumption_kWh, Diesel_Usage_Liters, Industry_Type, etc.
+No missing values were reported — everything looks clean.
+
+Model Evaluation
+Mean Squared Error (MSE): 0.00
+R-squared Score: 1.00 (Perfect fit — although this may suggest overfitting or synthetic data)
+This means your model predicts Estimated_CO2_Emissions_Tons almost perfectly. Check if your dataset is real-world or synthetic to interpret this result accurately.
+
+Model Coefficients
+Energy_Consumption_kWh: 0.0002 → Positive influence
+Diesel_Usage_Liters: 0.0027 → Stronger positive influence
+Production_Output_Tons: ~0 → Minimal effect
+Waste_Generated_Tons: ~0 → Minimal effect
+Number_of_Employees: ~0 → Minimal effect
+
+This suggests diesel usage and energy consumption are the key drivers of CO₂ emissions in your model.
