@@ -84,14 +84,6 @@ data/future_predictions.csv
 🔹 Conclusion
 This project demonstrates the power of machine learning in addressing climate challenges by providing a predictive view of CO₂ emissions. Future iterations may integrate more advanced time series models (e.g.,ARIMA,LSTM) and broader environmental data. Our goal is to continue building tools that guide informed and sustainable decision-making in Kenya and beyond.
 
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like this in a downloadable file or with teammate names prefilled.
-
 
 
 
