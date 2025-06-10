@@ -12,7 +12,7 @@ Each team member explored a unique AI concept for this assignment. After interna
 - **Faith Wafula** – *Selected Project Lead, Data Analysis & Modeling*
 - **Patrick Obondo** 
 - **Jeremiah Katumo** 
-- **Naomi Nyambura** 
+- **Naomi Wairimu** 
 - **Eloga Pharix** 
 
 ---
